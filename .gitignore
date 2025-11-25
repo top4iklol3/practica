@@ -98,6 +98,7 @@ Storage/
 appsettings.json
 appsettings.*.json
 !appsettings.Development.json.example
+!appsettings.json.example
 
 # Database files
 *.db
